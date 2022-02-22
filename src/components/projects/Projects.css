@@ -1,0 +1,34 @@
+.projetcs {
+  position: relative;
+  background-color: #703761 !important;
+}
+.projetcs-content {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+.projetcs-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  padding-left: 0;
+  list-style: none;
+  margin: 0 auto;
+}
+.projetcs-list > li {
+  border-radius: 5px;
+  margin: 20px 10px;
+  width: 363px;
+  min-width: 290px;
+}
+.projetcs-list > li > div {
+  height: 100%;
+}
+
+.textLink {
+  color: #04defc;
+  cursor: pointer;
+}
+.kokopelli { 
+  float: right;
+}

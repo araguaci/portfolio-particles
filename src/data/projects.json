@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "id": 101,
+      "link": "https://brasil-pela-liberdade.vercel.app/",
+      "company": "Brasil pela Liberdade",
+      "title": "Brasil pela Liberdade",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Brasileiros unidos em uma série de eventos realizados em todo o Brasil, pedindo liberdade para trabalhar e seguir com suas vidas.",
+        "Passeatas pela liberdade em todo Brasil",
+        "Entregas de 1000 dias de governo "
+      ],
+      "stack": ["projeto", "governo", "liberdade", "brasileiros", "patriotas"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #04396f, #033e1a, #009c3b, #fbdb04)",
+      "colourSecondary": "linear-gradient(to bottom, #04396f, #fbdb04, #009c3b)"
+    },
+    {
+      "id": 1,
+      "link": "http://megatronix.com.br/",
+      "company": "MEGATRONIX",
+      "title": "Sistema Lorentz CTI",
+      "dateFrom": "Agosto 2021",
+      "dateTo": "Setembro 2021",
+      "info": [
+        "Gestão de Call Center.",
+        "Gerenciar e distribuir fila de espera por prioridades.",
+        "Gerenciamento das ligações e distribuição para operadores e grupos de atendimento."
+      ],
+      "stack": ["callcenter", "intelbras", "panasonic", "cti", "atendimento", "solução", "helpdesk"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #c7d6ee, #0071bb, #0000CD )",
+      "colourSecondary": "linear-gradient(to bottom, #0000CD, #0071bb, #c7d6ee)"
+    },
+    {
+      "id": 100,
+      "link": "http://gaia.artesdosul.com/",
+      "company": "Earth Gaia",
+      "title": "Terra Earth Gaia",
+      "dateFrom": "Março 2016",
+      "dateTo": "Dezembro 2021",
+      "info": [
+        "Meditação para toda Humanidade.",
+        "Descubra seu Potencial.",
+        "Planeta Terra Transmutado, Urantia, Gaia, Joia da Galáxia, Love Earth. ",
+        "Música na frequência 432hs em harmonia com Universo"
+      ],
+      "stack": ["projeto", "meditação", "temponatural", "earth", "rainbow-bridge", "432hz"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
+      "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
+    }
+  ]
+}

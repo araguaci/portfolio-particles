@@ -1,0 +1,47 @@
+{
+  "skills": [
+    {
+      "id": 8,
+      "skillName": "Backend",
+      "amount": "90"
+    },
+    {
+      "id": 0,
+      "skillName": "Design",
+      "amount": "75"
+    },
+    { "id": 7, "skillName": "Gatsby", "amount": "70" },
+    { "id": 3, "skillName": "Javascript", "amount": "65" },
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "60"
+    },
+    {
+      "id": 1,
+      "skillName": "PHP",
+      "amount": "85"
+    },
+    {
+      "id": 1,
+      "skillName": "Planejamento",
+      "amount": "90"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "70"
+    },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "70"
+    },
+    {
+      "id": 0,
+      "skillName": "Sql Server",
+      "amount": "90"
+    },
+    { "id": 6, "skillName": "Wordpress", "amount": "80" }
+  ]
+}

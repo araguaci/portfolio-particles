@@ -1,0 +1,10 @@
+footer {
+  background-color: #3C2635;
+  padding-bottom: 10px;
+}
+.copyright {
+  text-align: center;
+}
+.copyright img {
+  border-radius: 15px;
+}

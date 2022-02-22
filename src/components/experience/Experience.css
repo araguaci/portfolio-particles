@@ -1,0 +1,33 @@
+.experience {
+  position: relative;
+  background-color: #4C1F3E;
+}
+.experience-content {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+.experience-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  padding-left: 0;
+  list-style: none;
+  margin: 0 auto;
+}
+.experience-list > li {
+  border-radius: 5px;
+  margin: 20px 10px;
+  width: 363px;
+  min-width: 290px;
+}
+.experience-list > li > div {
+  height: 100%;
+}
+.textLink {
+  color: #04defc;
+  cursor: pointer;
+}
+.kokopellip {
+  margin-left: 25px !important;
+}

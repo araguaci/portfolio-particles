@@ -1,0 +1,205 @@
+{
+  "experience": [
+    {
+      "id": 8,
+      "link": "https://jornada-seja-grato-araguaci.vercel.app/",
+      "company": "SEJA GRATO",
+      "title": "Autor Danilo Cavalcante",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "FATOS ESQUECIDOS",
+        "BREVE JORNADA DE 200 ANOS ",
+        "MOMENTOS QUE NÃO SÃO LEMBRADOS",
+        "APROVEITE SUA VIDA",
+        "COMPATILHE COISAS BOAS!"
+      ],
+      "stack": ["projeto", "meditação", "história", "mensagem"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #a26f26, #a25d25, #a3520b, #a2490a)",
+      "colourSecondary": "linear-gradient(to bottom, #a2490a, #a3520b, #a25d25, #a26f26)"
+    },
+    {
+      "id": 7,
+      "link": "https://a-oracao-de-sao-miguel.vercel.app/",
+      "company": "Sao Miguel Arcanjo",
+      "title": "Oração de São Miguel",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "“São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade de Roma."      
+      ],
+      "stack": ["projeto", "sãomiguel", "meditação", "oração", "proteção", "padrepauloricardo"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #2c719a, #722923, #93662c)",
+      "colourSecondary": "linear-gradient(to bottom, #93662c, #722923, #2c719a)"
+    },
+    {
+      "id": 6,
+      "link": "https://catequese-para-adultos.vercel.app/",
+      "company": "Christo Nihil Præponere",
+      "title": "Catequese para Adultos",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Padre Paulo Ricardo fala da fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos.",
+        "Aulas breves com exemplos de fácil entendimento, você terá a chance de descobrir como a fé católica, tão bela quanto clara."
+      ],
+      "stack": ["projeto", "catequese", "meditação", "palavra", "2000milanos", "padrepauloricardo"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #bd8421, #dbad65)",
+      "colourSecondary": "linear-gradient(to bottom, #dbad65, #bd8421)"
+    },
+    {
+      "id": 11,
+      "link": "https://supsocial.vercel.app/",
+      "company": "SUP SOCIAL",
+      "title": "Stand Up Paddle SURFCLUB",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Promove ações de inclusão socialu utilizando o esporte como ferramenta sócio educativa.",
+        "Sustentabilidade, meio ambiente e conservação das praias aplicados na prática.",
+        "Inspirar harmonia com a natureza e interação com outras pessoas, promovendo qualidade de vida."
+      ],
+      "stack": ["educação", "stand up paddle", "floripa", "natureza", "sustentabilidade"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #0065b2, #57caf6, #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom,#0065b2, #57caf6, #FFFFFF)"
+    },    
+    {
+      "id": 10,
+      "link": "http://www.floripasupclub.com.br/",
+      "company": "FLORIPA SUP CLUB",
+      "title": "Stand Up Paddle SURFCLUB",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Especialistas em Stand Up Paddle e Surf, fornecendo treinamento, consultoria, organização de eventos, aulas, passeios ecológicos integrados ao esporte.",
+        "“Qualidade Total” e “Risco Zero” em todos os procedimentos,   garantindo excelência e segurança."
+      ],
+      "stack": ["supclub", "stand up paddle", "floripa", "natureza", "aventuras", "eventos"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #001076, #337ab7, #2e9dd4, #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #2e9dd4, #337ab7, #001076 )"
+    },
+    {
+      "id": 9,
+      "link": "http://centraldeaventuras.com.br/",
+      "company": "CENTRAL DE AVENTURAS",
+      "title": "Club de Aventura e Sustentabilidade",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Registro de aventuras entre amigos reunidas pelo esporte e amor a natureza", 
+        "Promoção de eventos relacionados ou não com o mar.",
+        "Confraternização entre todos que adoram aventura, esporte e que respeitam a natureza."
+      ],
+      "stack": ["surf", "surfschool", "stand up paddle", "floripa", "natureza", "aventuras", "eventos"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #fef165, #fea966, #f7666b, #7b66c3)",
+      "colourSecondary": "linear-gradient(to bottom, #7b66c3, #f7666b, #fea966, #fef165)"
+    },
+    {
+      "id": 5,
+      "link": "http://mantiqueira.rioacima.com.br/",
+      "company": "RIO ACIMA",
+      "title": "Estância Rio Acima - MG",
+      "dateFrom": "Novembro 2016",
+      "dateTo": "Dezembro 2019",
+      "info": [
+        "Um local para relaxar junto a natureza na mantiqueira.",
+        "Na Estância Rio Acima você toma água mineral na torneira. ",
+        "Todos os chalés possuem vista para rio e cachoeiras que circundam toda a propriedade."
+      ],
+      "stack": ["turismo", "minasgerais", "mantiqueira", "montanha", "ecoturismo"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #0a3e91, #00a537)",
+      "colourSecondary": "linear-gradient(to bottom, #00a537, #0a3e91)"
+    },
+    {
+      "id": 4,
+      "link": "http://feceess.escolasdesurf.org.br/easysurf/",
+      "company": "Easy Surf",
+      "title": "Easy Surf School",
+      "dateFrom": "Agosto 2021",
+      "dateTo": "Setembro 2021",
+      "info": [
+        "Easy Surf School and Trips 🏄‍♀️🏄 Joaquina 🌊",
+        "Karina Abras, 3x Brazilian champion 🏄‍♀️ 🏄‍♀️ 🏄‍♀️ - Professora de Surf 🏄‍♀️"
+      ],
+      "stack": ["surfscholl", "turismo", "esporte", "escoladesurf"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #001076, #337ab7, #2e9dd4, #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #2e9dd4, #337ab7, #001076 )"
+    },
+    {
+      "id": 3,
+      "link": "http://feceess.escolasdesurf.org.br/mariscal/",
+      "company": "Mili Surf School",
+      "title": "Mili Surf School",
+      "dateFrom": "Agosto 2021",
+      "dateTo": "Setembro 2021",
+      "info": [
+        "Mili e Tiago professores de surf credenciados FECEESS.ACES/CREF SC",
+        "Praia de 🏄‍♀️🏄 Mariscal 🌊",
+        "Bombinhas - Santa Catarina - Brasil"
+      ],
+      "stack": ["surfscholl", "turismo", "esporte", "escoladesurf", "mariscal"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #28a745, #2e9dd4, #fef200)",
+      "colourSecondary": "linear-gradient(to bottom, #28a745, #2e9dd4, #fef200)"
+    },
+    {
+      "id": 2,
+      "link": "http://feceess.escolasdesurf.org.br/",
+      "company": "FECEESS",
+      "title": "F.E.C.E.E.S.S.☆A.C.E.S. SC",
+      "dateFrom": "Agosto 2021",
+      "dateTo": "Setembro 2021",
+      "info": [
+        "FEDERAÇÃO CATARINENSE DE ESPECIALISTAS E ESCOLAS DE SURF E STAND UP PADDLE",
+        "Surf, bodyboard, Stand up Paddle, surfe de peito e tow-in, segundo preceitos ACES-SC / FECASURF / CREF-SC"
+      ],
+      "stack": ["surf", "surfscholl", "esporte", "escoladesurf", "santacatarina", "StandUpPaddle"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #a03f03, #d07c0d, #daa61a, #5cb9d8, #1d5fa1 )",
+      "colourSecondary": "linear-gradient(to bottom, #1d5fa1, #5cb9d8, #daa61a, #d07c0d, #a03f03)"
+    },
+    {
+      "id": 105,
+      "link": "https://healing-sound-of-the-earth.vercel.app/",
+      "company": "HATEVAOM",
+      "title": "The Healing Sound of the Earth",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "O Som Curativo da Terra.",
+        "Que essa música possa trazer paz e cura para a sua vida.",
+        "Frequência benéfica para a vida vibrando nas harmônicas de 432hz.",
+        "Ajuda a melhorar ou aprofundar os estados de meditação."
+      ],
+      "stack": ["432hz", "meditação", "frequência", "música", "healing"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #01a3dc, #11ad51, #f8c612)",
+      "colourSecondary": "linear-gradient(to bottom, #f8c612, #11ad51, #01a3dc, #52348e, #932c87)"
+    },
+    {
+      "id": 0,
+      "link": "http://www.floripasurfclub.com.br/",
+      "company": "Floripa Surf Club",
+      "title": "Surf Club Surf Scholl",
+      "dateFrom": "Março 2016",
+      "dateTo": "Janeiro 2022",
+      "info": [
+        "Surf School na Barra Beach Em frente ao projeto Tamar Floripa Surf Club na Barra",
+        "Santuário ecológico para o Ecoturismo e Sustentabilidade.",
+        "Em frente ao Projeto Tamar, Rua Aconchego do mar, 60. "
+      ],
+      "stack": ["surfscholl", "turismo", "esporte", "surftrip", "surfclub", "ferias", "ecoturismo", "floripa"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #101265, #171a91, #1d22bd, #2f34df, #558fd7, #77a4e1, #89b1e5, #a5c0e9)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #01069e)"
+    }
+  ]
+}
