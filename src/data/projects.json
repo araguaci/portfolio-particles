@@ -51,8 +51,7 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
       "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
-    }
-    ,
+    },
     {
       "id": 101,
       "link": "https://patria-amada-brasil.vercel.app/",
@@ -70,6 +69,26 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)",
       "colourSecondary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)"
+    },
+    {
+      "id": 102,
+      "link": "https://stop-war-for-ever.vercel.app/",
+      "company": "Stop War For Ever",
+      "title": "I'm pleadin' to mankind",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Março 2022",
+      "info": [
+        "Are We Incapable of Ending Wars?",
+        "One love, One heart...",
+        "Let's get together and feel all right...",
+        "Hear the children crying...",
+        "Give thanks and praise to the Lord...", 
+        "There ain't no hiding place From the Father of creation."
+      ],
+      "stack": ["projeto", "world", "stopwar", "oneworld"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #6D3D9D, #005bbb)",
+      "colourSecondary": "linear-gradient(to bottom, #6D3D9D, #005bbb)"
     }
   ]
 }
