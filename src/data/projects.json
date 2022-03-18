@@ -54,22 +54,22 @@
     }
     ,
     {
-      "id": 100,
+      "id": 101,
       "link": "https://patria-amada-brasil.vercel.app//",
-      "company": "Earth Gaia",
-      "title": "Terra Earth Gaia",
-      "dateFrom": "Março 2016",
-      "dateTo": "Dezembro 2021",
+      "company": "Patria Amada Brasil",
+      "title": "Entregas do Governo Federal",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Março 2022",
       "info": [
-        "Meditação para toda Humanidade.",
-        "Descubra seu Potencial.",
-        "Planeta Terra Transmutado, Urantia, Gaia, Joia da Galáxia, Love Earth. ",
-        "Música na frequência 432hs em harmonia com Universo"
+        "Entregas do Governo Federal.",
+        "Recordes históricos sendo alcançados.",
+        "Resultados positivos que não são notícia. ",
+        "Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa."
       ],
-      "stack": ["projeto", "meditação", "temponatural", "earth", "rainbow-bridge", "432hz"],
+      "stack": ["projeto", "brasil", "melhorias", "resultados"],
       "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
-      "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
+      "colourPrimary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)",
+      "colourSecondary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)"
     }
   ]
 }
