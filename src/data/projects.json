@@ -52,5 +52,24 @@
       "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
       "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
     }
+    ,
+    {
+      "id": 100,
+      "link": "https://patria-amada-brasil.vercel.app//",
+      "company": "Earth Gaia",
+      "title": "Terra Earth Gaia",
+      "dateFrom": "Março 2016",
+      "dateTo": "Dezembro 2021",
+      "info": [
+        "Meditação para toda Humanidade.",
+        "Descubra seu Potencial.",
+        "Planeta Terra Transmutado, Urantia, Gaia, Joia da Galáxia, Love Earth. ",
+        "Música na frequência 432hs em harmonia com Universo"
+      ],
+      "stack": ["projeto", "meditação", "temponatural", "earth", "rainbow-bridge", "432hz"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
+      "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
+    }
   ]
 }
