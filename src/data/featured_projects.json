@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "RIO ACIMA",
-      "link": "http://mantiqueira.rioacima.com.br/",
+      "link": "https://www.rioacima.com.br/",
       "description": "Um local para relaxar junto a natureza na mantiqueira. Na Estância Rio Acima você toma água mineral na torneira. Todos os chalés possuem vista para rio e cachoeiras que circundam toda a propriedade.",
       "colour": "linear-gradient(to top, #0a3e91, #00a537)",
       "languages": [
@@ -14,7 +14,7 @@
     {
       "id": 1,
       "name": "Floripa Surf Club",
-      "link": "http://www.floripasurfclub.com.br/",
+      "link": "https://floripasurfclub.com/",
       "description": "Surf School na Barra Beach Em frente ao projeto Tamar Floripa Surf Club na Barra. Santuário ecológico para o Ecoturismo e Sustentabilidade. Em frente ao Projeto Tamar, Rua Aconchego do mar, 60.",
       "colour": "linear-gradient(to bottom right, #101265, #171a91, #1d22bd, #2f34df, #558fd7)",
       "languages": [
