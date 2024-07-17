@@ -1,8 +1,8 @@
 .contact-form-wrapper {
-  background-color: #4C1F3E;
+  background-color: #265e39;
 }
 .makeStyles-submit-3 > * {
-  color: #4C1F3E; 
+  color: #265e39 !important; 
 }
 .contact-form {
   margin: 40px auto 0 auto;
@@ -21,6 +21,6 @@ input:-webkit-autofill:hover,
 input:-webkit-autofill:focus,
 input:-webkit-autofill:active {
   -webkit-text-fill-color: white !important;
-  -webkit-box-shadow: 0 0 0 30px #3b4353 inset !important;
+  -webkit-box-shadow: 0 0 0 30px #325291 inset !important;
   caret-color: white;
 }

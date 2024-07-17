@@ -13,7 +13,7 @@ const Contact = () => {
       <Bounce cascade>
         <div className="links">
           <a
-            href="https://www.instagram.com/araguaciandrade/"
+            href="https://www.instagram.com/araguaci.andrade/"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -10,6 +10,7 @@ import Navbar from '../navbar/Navbar'
 import config from '../../config'
 import profile from '../../images/artesdosul.png'
 import linkedin from '../../images/social/linkedin.png'
+import instagram from '../../images/social/instagram.png'
 
 const Home = () => {
   const [imageLoaded, setImageLoaded] = useState(false)
@@ -21,12 +22,12 @@ const Home = () => {
         <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
           <Fade bottom distance="40px">
             <span className="wave-emoji" role="img" aria-label="waving hand">
-            <img
-              className="profile wave-logo" 
-              alt="araguaci profile"
-              src={profile}
-              onLoad={() => setImageLoaded(true)}
-            />
+              <img
+                className="profile wave-logo"
+                alt="araguaci profile"
+                src={profile}
+                onLoad={() => setImageLoaded(true)}
+              />
             </span>
             <h1 className="greeting-text">
               Portfolio <span className="name">Artes do Sul</span>.{' '}
@@ -54,6 +55,13 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
+                  href="https://www.instagram.com/araguaci.andrade/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={instagram} alt="Instagram Logo" width="50px" />
+                </a>
+                <a
                   href="https://www.linkedin.com/in/araguaci/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -65,7 +73,7 @@ const Home = () => {
             <div className="scroll-down">
               <Link
                 activeClass="active"
-                to="about"
+                to="portfolio"
                 spy={true}
                 smooth={true}
                 offset={-43}
@@ -79,7 +87,6 @@ const Home = () => {
             </div>
           </Fade>
         </div>
-        
       </div>
     </div>
   )

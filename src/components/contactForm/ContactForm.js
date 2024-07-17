@@ -9,14 +9,14 @@ const useStyles = makeStyles((theme) => ({
   email: {
     '& > *': {
       marginBottom: theme.spacing(2),
-      backgroundColor: '#3b4353',
+      backgroundColor: '#325291',
       color: 'white',
       '&:hover': {
-        backgroundColor: '#3b4353',
+        backgroundColor: '#325291',
         color: 'white',
       },
       '&.Mui-focused': {
-        backgroundColor: '#3b4353',
+        backgroundColor: '#325291',
         color: 'white',
       },
       '&.MuiFilledInput-underline:before': {
@@ -30,14 +30,14 @@ const useStyles = makeStyles((theme) => ({
   message: {
     '& > *': {
       marginBottom: theme.spacing(2),
-      backgroundColor: '#3b4353',
+      backgroundColor: '#325291',
       color: 'white',
       '&:hover': {
-        backgroundColor: '#3b4353',
+        backgroundColor: '#325291',
         color: 'white',
       },
       '&.Mui-focused': {
-        backgroundColor: '#3b4353',
+        backgroundColor: '#325291',
         color: 'white',
       },
       '&.MuiFilledInput-underline:before': {
@@ -50,7 +50,7 @@ const useStyles = makeStyles((theme) => ({
   },
   submit: {
     '&': {
-      backgroundColor: '#04defc',
+      backgroundColor: '#ffdf00',
       boxShadow: 'none',
       '&:hover': {
         backgroundColor: '#6de9ab',

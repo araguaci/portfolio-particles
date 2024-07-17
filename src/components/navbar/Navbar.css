@@ -5,8 +5,8 @@
   height: 40px;
   display: flex;
   align-items: center;
-  background-color: #3C2635;
-  border-bottom: 3px solid #04defc;
+  background-color: #1F4C2E;
+  border-bottom: 3px solid #ffdf00;
   pointer-events: fill;
   z-index: 1000;
 }

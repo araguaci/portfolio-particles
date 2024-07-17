@@ -11,7 +11,7 @@ body {
   }
   section {
     position: relative;
-    padding: 6rem;
+    padding: 6rem 4rem;
     padding-bottom: 0;
   }
 }
@@ -28,7 +28,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-  background: #4C1F3E;
+  background: #265e39;
   color: white;
   font-family: 'Montserrat', sans-serif;
   min-width: 320px;

@@ -1,6 +1,38 @@
 {
   "projects": [
     {
+      "id": 201,
+      "link": "https://cronologia-operacoes-eua.vercel.app//",
+      "company": "US ARMY",
+      "title": "Cronologia Operações Militares",
+      "dateFrom": "Junho 2024",
+      "dateTo": "Julho 2024",
+      "info": [
+        "Cronologia das operações militares dos Estados Unidos",
+        "Operações desde 1798 até 2023"
+      ],
+      "stack": ["projeto", "governo", "timeline", "operações", "json"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #7f7f00, #febe10, #005289, #0070C0, #999999)",
+      "colourSecondary": "linear-gradient(to bottom, #7f7f00, #febe10, #005289, #0070C0, #999999)"
+    },
+    {
+      "id": 202,
+      "link": "https://timeline-surf-santa-catarina.vercel.app/",
+      "company": "Santa Catarina",
+      "title": "Surfe em Santa Catarina",
+      "dateFrom": "Junho 2022",
+      "dateTo": "Julho 2022",
+      "info": [
+        "Linha do Tempo de eventos relacionados ao Surf em Santa Catarina",
+        "Escolas de Surf FECEESS / ACES"
+      ],
+      "stack": ["projeto", "surfe", "timeline", "santa catarina", "json", "escolas de surf"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #da251d, #886023, #00923f, #84c225, #ffd300)",
+      "colourSecondary": "linear-gradient(to bottom, #005289, #0070C0, #999999)"
+    },
+    {
       "id": 101,
       "link": "https://brasil-pela-liberdade.vercel.app/",
       "company": "Brasil pela Liberdade",
@@ -13,9 +45,209 @@
         "Entregas de 1000 dias de governo "
       ],
       "stack": ["projeto", "governo", "liberdade", "brasileiros", "patriotas"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #04396f, #033e1a, #009c3b, #fbdb04)",
-      "colourSecondary": "linear-gradient(to bottom, #04396f, #fbdb04, #009c3b)"
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #009c3b, #fbdb04, #04396f, #FFFFFF)",
+      "colourSecondary": "linear-gradient(to bottom, #009c3b, #fbdb04, #04396f, #FFFFFF)"
+    },
+    {
+      "id": 100,
+      "link": "http://gaia.artesdosul.com/",
+      "company": "Earth Gaia",
+      "title": "Terra Earth Gaia",
+      "dateFrom": "Março 2016",
+      "dateTo": "Dezembro 2021",
+      "info": [
+        "Meditação para toda Humanidade.",
+        "Descubra seu Potencial.",
+        "Planeta Terra Transmutado, Urantia, Gaia, Joia da Galáxia, Love Earth. ",
+        "Música na frequência 432hs em harmonia com Universo"
+      ],
+      "stack": ["projeto", "meditação", "temponatural", "earth", "rainbow-bridge", "432hz"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #01a3dc, #11ad51, #f8c612, #f67122, #f12d20)",
+      "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #01a3dc, #11ad51, #f8c612, #f67122, #f12d20)"
+    },
+    {
+      "id": 101,
+      "link": "https://patria-amada-brasil.vercel.app/",
+      "company": "Patria Amada Brasil",
+      "title": "Entregas do Governo Federal",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Março 2022",
+      "info": [
+        "Entregas do Governo Federal.",
+        "Recordes históricos sendo alcançados.",
+        "Resultados positivos que não são notícia. ",
+        "Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa."
+      ],
+      "stack": ["projeto", "brasil", "melhorias", "resultados"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #FFFFFF, #04396f, #fbdb04, #009c3b)",
+      "colourSecondary": "linear-gradient(to bottom, #FFFFFF, #04396f, #fbdb04, #009c3b)"
+    },
+    {
+      "id": 104,
+      "link": "https://jornada-seja-grato-araguaci.vercel.app/",
+      "company": "SEJA GRATO",
+      "title": "Autor Danilo Cavalcante",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "FATOS ESQUECIDOS",
+        "BREVE JORNADA DE 200 ANOS ",
+        "MOMENTOS QUE NÃO SÃO LEMBRADOS",
+        "APROVEITE SUA VIDA",
+        "COMPATILHE COISAS BOAS!"
+      ],
+      "stack": ["projeto", "meditação", "história", "mensagem"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #a26f26, #a3340b, #630a0a)",
+      "colourSecondary": "linear-gradient(to bottom, #a26f26, #a3340b, #630a0a)"
+    },
+    {
+      "id": 105,
+      "link": "https://a-oracao-de-sao-miguel.vercel.app/",
+      "company": "Sao Miguel Arcanjo",
+      "title": "Oração de São Miguel",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "“São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade de Roma."      
+      ],
+      "stack": ["projeto", "sãomiguel", "meditação", "oração", "proteção", "padrepauloricardo"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #2c719a, #722923, #93662c)",
+      "colourSecondary": "linear-gradient(to bottom, #93662c, #722923, #2c719a)"
+    },
+    {
+      "id": 106,
+      "link": "https://catequese-para-adultos.vercel.app/",
+      "company": "Christo Nihil Præponere",
+      "title": "Catequese para Adultos",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Fevereiro 2022",
+      "info": [
+        "Padre Paulo Ricardo fala da fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos.",
+        "Aulas breves com exemplos de fácil entendimento, você terá a chance de descobrir como a fé católica, tão bela quanto clara."
+      ],
+      "stack": ["projeto", "catequese", "meditação", "palavra", "2000milanos", "padrepauloricardo"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #404650, #bd8421, #dbad65)",
+      "colourSecondary": "linear-gradient(to bottom, #404650, #bd8421, #dbad65)"
+    },
+    {
+      "id": 116,
+      "link": "https://sabedoria-suntzu.vercel.app/",
+      "company": "Sun Tzu",
+      "title": "Sabedoria Sun Tzu",
+      "dateFrom": "Junho 2024",
+      "dateTo": "Junho 2024",
+      "info": [
+        "Sabedoria Milenar.",
+        "Estratégias de Gestão."
+      ],
+      "stack": ["projeto", "sabedoria", "frases", "javascript"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #cee3e9, #bd8421, #404650, #1f2632)",
+      "colourSecondary": "linear-gradient(to bottom, #1f2632, #404650, #cee3e9)"
+    },
+    {
+      "id": 132,
+      "link": "https://solarstorm.vercel.app/",
+      "company": "Solar Storm",
+      "title": "Tempestade Solar",
+      "dateFrom": "Maio 2024",
+      "dateTo": "Maio 2024",
+      "info": [
+        "SOLAR STORM G5 Extreme Conditions Reached - 10/11/12 May 2024"
+      ],
+      "stack": ["projeto", "world", "astro"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #983AA1ff, #470073ff, #270042ff, #4E803Dff, #3E0B4Eff)",
+      "colourSecondary": "linear-gradient(to bottom, #5E0096ff, #A000DCff, #F401F6ff, #4B6852ff, #4DAF20ff)"
+    },
+    {
+      "id": 122,
+      "link": "https://araguaci.github.io/o-dominio-de-si-mesmo/",
+      "company": "Aprendendo Todo Dia",
+      "title": "O domínio de si mesmo",
+      "dateFrom": "Junho 2023",
+      "dateTo": "Julho 2023",
+      "info": [
+        "Reflexões para vida. ",
+        "Compilado de temas e textos para reflexão pessoal.",
+        "O ser consciente e o inconsciente.",
+        "Vontade e imaginação"
+      ],
+      "stack": ["projeto", "world", "blog", "reflexões"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #a63fd9, #4051b5, #2e303e)",
+      "colourSecondary": "linear-gradient(to bottom, #2e303e, #4051b5, #a63fd9)"
+    },
+    {
+      "id": 144,
+      "link": "https://ayrtonsenna-magic.vercel.app/",
+      "company": "Ayrton Senna Magic",
+      "title": "Ayrton Senna Magic",
+      "dateFrom": "Maio 2024",
+      "dateTo": "Maio 2024",
+      "info": [
+        "30 ANOS DA PASSAGEM DE AYRTON SENNA DA SILVA."
+      ],
+      "stack": ["projeto", "world", "memórias", "tributo"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #00A8E9, #003C78, #FFCA00)",
+      "colourSecondary": "linear-gradient(to bottom, #00A8E9, #003C78, #FFCA00)"
+    },
+    {
+      "id": 143,
+      "link": "https://ayrtonsenna-memories.netlify.app/",
+      "company": "Ayrtonsenna Memories",
+      "title": "Ayrtonsenna Memories",
+      "dateFrom": "Maio 2024",
+      "dateTo": "Maio 2024",
+      "info": [
+        "No dia 1 de maio de 1994, há 30 anos, Ayrton Senna deixa um legado histórico."
+      ],
+      "stack": ["projeto", "world", "memórias", "tributo"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #00A8E9, #00A8E9, #003C78, #FFCA00)",
+      "colourSecondary": "linear-gradient(to bottom, #00A8E9, #00A8E9, #003C78, #FFCA00)"
+    },
+    {
+      "id": 142,
+      "link": "https://ayrtonsenna-inmemoriam.netlify.app/",
+      "company": "Ayrton Senna",
+      "title": "Ayrton Senna In Memoriam",
+      "dateFrom": "Maio 2024",
+      "dateTo": "Maio 2024",
+      "info": [
+        "30 anos da passagem de Aryon Senna que inspirou muitos e continua inspirando gerações, está no coração de todos nós."
+      ],
+      "stack": ["projeto", "world", "astro", "tributo"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #00A8E9, #00A8E9, #00A8E9, #003C78, #003C78, #FFCA00)",
+      "colourSecondary": "linear-gradient(to bottom, #00A8E9, #00A8E9, #00A8E9, #003C78, #003C78, #FFCA00)"
+    },
+    {
+      "id": 102,
+      "link": "https://stop-war-for-ever.vercel.app/",
+      "company": "Stop War For Ever",
+      "title": "I'm pleadin' to mankind",
+      "dateFrom": "Janeiro 2022",
+      "dateTo": "Março 2022",
+      "info": [
+        "Are We Incapable of Ending Wars?",
+        "One love, One heart...",
+        "Let's get together and feel all right...",
+        "Hear the children crying...",
+        "Give thanks and praise to the Lord...", 
+        "There ain't no hiding place From the Father of creation."
+      ],
+      "stack": ["projeto", "world", "stopwar", "oneworld"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #6D3D9D, #005bbb, #289047, #ffd500)",
+      "colourSecondary": "linear-gradient(to bottom, #6D3D9D, #005bbb, #289047, #ffd500)"
     },
     {
       "id": 1,
@@ -35,60 +267,21 @@
       "colourSecondary": "linear-gradient(to bottom, #0000CD, #0071bb, #c7d6ee)"
     },
     {
-      "id": 100,
-      "link": "http://gaia.artesdosul.com/",
-      "company": "Earth Gaia",
-      "title": "Terra Earth Gaia",
-      "dateFrom": "Março 2016",
-      "dateTo": "Dezembro 2021",
+      "id": 112,
+      "link": "https://inprincipioverbum.github.io/",
+      "company": "In Principio Verbum",
+      "title": "In Principio Verbum",
+      "dateFrom": "Junho 2024",
+      "dateTo": "Julho 2024",
       "info": [
-        "Meditação para toda Humanidade.",
-        "Descubra seu Potencial.",
-        "Planeta Terra Transmutado, Urantia, Gaia, Joia da Galáxia, Love Earth. ",
-        "Música na frequência 432hs em harmonia com Universo"
+        "No princípio era o Verbo. ",
+        "Contemplando a origem e o propósito da existência.",
+        "Espaço é destinado a publicação de pensamentos e reflexões."
       ],
-      "stack": ["projeto", "meditação", "temponatural", "earth", "rainbow-bridge", "432hz"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)",
-      "colourSecondary": "linear-gradient(to bottom, #932c87, #52348e, #f12d20, #f67122, #f8c612, #11ad51, #01a3dc)"
-    },
-    {
-      "id": 101,
-      "link": "https://patria-amada-brasil.vercel.app/",
-      "company": "Patria Amada Brasil",
-      "title": "Entregas do Governo Federal",
-      "dateFrom": "Janeiro 2022",
-      "dateTo": "Março 2022",
-      "info": [
-        "Entregas do Governo Federal.",
-        "Recordes históricos sendo alcançados.",
-        "Resultados positivos que não são notícia. ",
-        "Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa."
-      ],
-      "stack": ["projeto", "brasil", "melhorias", "resultados"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)",
-      "colourSecondary": "linear-gradient(to bottom, #11ad51, #f8c612, #01a3dc)"
-    },
-    {
-      "id": 102,
-      "link": "https://stop-war-for-ever.vercel.app/",
-      "company": "Stop War For Ever",
-      "title": "I'm pleadin' to mankind",
-      "dateFrom": "Janeiro 2022",
-      "dateTo": "Março 2022",
-      "info": [
-        "Are We Incapable of Ending Wars?",
-        "One love, One heart...",
-        "Let's get together and feel all right...",
-        "Hear the children crying...",
-        "Give thanks and praise to the Lord...", 
-        "There ain't no hiding place From the Father of creation."
-      ],
-      "stack": ["projeto", "world", "stopwar", "oneworld"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #6D3D9D, #005bbb)",
-      "colourSecondary": "linear-gradient(to bottom, #6D3D9D, #005bbb)"
+      "stack": ["projeto", "world", "blog", "reflexões"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #620b47, #052c65)",
+      "colourSecondary": "linear-gradient(to bottom, #620b47, #052c65)"
     }
   ]
 }
