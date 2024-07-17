@@ -9,7 +9,7 @@
 }
 .experience-card {
   position: relative;
-  background-color: #3b4353;
+  background-color: #325291;
   border-radius: 5px;
   align-items: center;
   min-height: 158px;
@@ -116,7 +116,7 @@
 @media screen and (max-width: 599px) {
   .experience-card-wrapper:hover .experience-card {
     transform: translateY(0);
-    background-color: #3b4353;
+    background-color: #325291;
   }
   .experience-card-bottom {
     padding: 65px 15px 20px 15px;

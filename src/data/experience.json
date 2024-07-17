@@ -1,56 +1,6 @@
 {
   "experience": [
     {
-      "id": 8,
-      "link": "https://jornada-seja-grato-araguaci.vercel.app/",
-      "company": "SEJA GRATO",
-      "title": "Autor Danilo Cavalcante",
-      "dateFrom": "Janeiro 2022",
-      "dateTo": "Fevereiro 2022",
-      "info": [
-        "FATOS ESQUECIDOS",
-        "BREVE JORNADA DE 200 ANOS ",
-        "MOMENTOS QUE NÃO SÃO LEMBRADOS",
-        "APROVEITE SUA VIDA",
-        "COMPATILHE COISAS BOAS!"
-      ],
-      "stack": ["projeto", "meditação", "história", "mensagem"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #a26f26, #a25d25, #a3520b, #a2490a)",
-      "colourSecondary": "linear-gradient(to bottom, #a2490a, #a3520b, #a25d25, #a26f26)"
-    },
-    {
-      "id": 7,
-      "link": "https://a-oracao-de-sao-miguel.vercel.app/",
-      "company": "Sao Miguel Arcanjo",
-      "title": "Oração de São Miguel",
-      "dateFrom": "Janeiro 2022",
-      "dateTo": "Fevereiro 2022",
-      "info": [
-        "“São Miguel Arcanjo, defendei-nos no combate”: conheça a história e a teologia por trás desta prece, escrita pelo Papa Leão XIII depois de uma suposta visão de espíritos malignos sobrevoando a cidade de Roma."      
-      ],
-      "stack": ["projeto", "sãomiguel", "meditação", "oração", "proteção", "padrepauloricardo"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #2c719a, #722923, #93662c)",
-      "colourSecondary": "linear-gradient(to bottom, #93662c, #722923, #2c719a)"
-    },
-    {
-      "id": 6,
-      "link": "https://catequese-para-adultos.vercel.app/",
-      "company": "Christo Nihil Præponere",
-      "title": "Catequese para Adultos",
-      "dateFrom": "Janeiro 2022",
-      "dateTo": "Fevereiro 2022",
-      "info": [
-        "Padre Paulo Ricardo fala da fé de dois mil anos da Igreja, explicada de forma concisa, simples e acessível a todos.",
-        "Aulas breves com exemplos de fácil entendimento, você terá a chance de descobrir como a fé católica, tão bela quanto clara."
-      ],
-      "stack": ["projeto", "catequese", "meditação", "palavra", "2000milanos", "padrepauloricardo"],
-      "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #bd8421, #dbad65)",
-      "colourSecondary": "linear-gradient(to bottom, #dbad65, #bd8421)"
-    },
-    {
       "id": 11,
       "link": "https://supsocial.vercel.app/",
       "company": "SUP SOCIAL",
@@ -102,7 +52,7 @@
     },
     {
       "id": 5,
-      "link": "http://mantiqueira.rioacima.com.br/",
+      "link": "https://www.rioacima.com.br/",
       "company": "RIO ACIMA",
       "title": "Estância Rio Acima - MG",
       "dateFrom": "Novembro 2016",
@@ -186,7 +136,7 @@
     },
     {
       "id": 0,
-      "link": "http://www.floripasurfclub.com.br/",
+      "link": "https://floripasurfclub.com/",
       "company": "Floripa Surf Club",
       "title": "Surf Club Surf Scholl",
       "dateFrom": "Março 2016",

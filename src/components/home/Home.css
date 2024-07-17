@@ -18,7 +18,7 @@
     margin-left: auto;
     margin-right: auto;
     bottom: 70px;
-    color: #04defc;
+    color: #ffdf00;
   }
 }
 @media screen and (max-height: 599px) and (min-height: 410px) {
@@ -29,7 +29,7 @@
     margin-left: auto;
     margin-right: auto;
     bottom: 70px;
-    color: #04defc;
+    color: #ffdf00;
   }
 }
 @media screen and (max-height: 409px) {
@@ -56,13 +56,13 @@
 .profile {
   border-radius: 50%;
   border: 0.2rem solid #ffffff;  
-  background-color: #04defc;
+  background-color: #ffdf00;
 }
 .greeting-text {
   margin: 15px;
 }
 .name {
-  color: #04defc
+  color: #ffdf00
 }
 .links {
   display: flex;
@@ -94,10 +94,10 @@
 @keyframes pulse {
   0%, 100% {
     border: 0.3rem solid #ffffff;  
-    background-color: #04defc;
+    background-color: #ffdf00;
   }
   50% {
-    border: 0.3rem solid #04defc;  
+    border: 0.3rem solid #ffdf00;  
     background-color: #ffffff;
   }
 }

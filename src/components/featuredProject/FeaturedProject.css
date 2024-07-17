@@ -51,7 +51,7 @@
 @media screen and (max-width: 599px) {
   .featured-project-wrapper:hover .featured-project {
     transform: translateX(0);
-    background-color: #3b4353;
+    background-color: #325291;
   }
   .featured-project-image {
     margin: 0 auto 0 -7px;

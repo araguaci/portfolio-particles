@@ -184,7 +184,7 @@ module.exports = {
           }
         },
         "color": {
-          "value": ['#fbdb04', '#04defc', '#008a3e', '#793e76', '#3c5570', '#058cba'],
+          "value": ['#fbdb04', '#ffdf00', '#008a3e', '#793e76', '#3c5570', '#058cba'],
           "animation": {
             "h": {
               "count": 0,
@@ -233,7 +233,7 @@ module.exports = {
             "sizeOffset": true
           }
         },
-        "gradient": ['#fbdb04', '#04defc', '#008a3e', '#793e76', '#3c5570', '#058cba'],
+        "gradient": ['#fbdb04', '#ffdf00', '#008a3e', '#793e76', '#3c5570', '#058cba'],
         "groups": {},
         "life": {
           "count": 0,

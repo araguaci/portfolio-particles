@@ -1,6 +1,6 @@
 .experience {
   position: relative;
-  background-color: #4C1F3E;
+  background-color: #1F4C2E; 
 }
 .experience-content {
   margin: 0 auto;
@@ -25,7 +25,7 @@
   height: 100%;
 }
 .textLink {
-  color: #04defc;
+  color: #ffdf00;
   cursor: pointer;
 }
 .kokopellip {
