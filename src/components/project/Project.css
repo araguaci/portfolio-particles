@@ -9,7 +9,7 @@
 .project-card {
   padding: 10px 20px 10px 20px;
   border-radius: 5px;
-  background-color: #3b4353;
+  background-color: #325291;
   transition: 0.2s;
   cursor: pointer;
 }
@@ -72,7 +72,7 @@
 
 @media screen and (max-width: 599px) {
   .project-card-wrapper:hover .project-card {
-    background-color: #3b4353;
+    background-color: #325291;
     transform: translateX(0);
   }
 }
