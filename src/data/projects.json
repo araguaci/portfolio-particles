@@ -282,6 +282,23 @@
       "logoheight": 90,
       "colourPrimary": "linear-gradient(to bottom, #620b47, #052c65)",
       "colourSecondary": "linear-gradient(to bottom, #620b47, #052c65)"
+    },
+    {
+      "id": 122,
+      "link": "https://olavodecarvalho.vercel.app/",
+      "company": "Olavo de Carvalho",
+      "title": "Biblioteca Olavo de Carvalho",
+      "dateFrom": "Setembro 2024",
+      "dateTo": "Setembro 2024",
+      "info": [
+        "Livros, publicações e artigos de Olavo de Carvalho. ",
+        "Professor • Filósofo • Escritor",
+        "Ensaísta • Jornalista"
+      ],
+      "stack": ["projeto", "estudo", "livros", "filosofia", "sociologia", "artigos"],
+      "logoheight": 90,
+      "colourPrimary": "linear-gradient(to bottom, #dbad65, #bd8421, #404650)",
+      "colourSecondary": "linear-gradient(to bottom, #dbad65, #bd8421, #404650)"
     }
   ]
 }
